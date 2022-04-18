@@ -1,13 +1,8 @@
-Project Description:
-—Fruit Ninja: Fruit ninja game using openCV to track the brightest object in the frame (flashlight in a dark room) and finger as the primary methods of control to slice through the fruit.
+This project uses OpenCV library to visualize hand motions and captures bright flash light through a game fruit ninja.
 
-How To Run:
-—Make sure openCV and mediapipe are downloaded and imported
-—Run from editor
+Make sure to download openCV and mediapipe.
 
-Libraries Installed:
-—openCV
-—mediapipe
+To run this game, run main.py.
 
 ShortCuts:
 —press "r" to reset game
